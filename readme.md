@@ -1,3 +1,3 @@
 A propeller engine strapped on your back you can fly around with. It can be found in the Other category in the entities tab.
 
-![ScreenShot](http://s3.garrysmod.org/img/cache/1/0/1/2/9/6/b0e6e37dc3edd0c5c8e98338edc1e363.jpg)
+![ScreenShot](http://cloud-2.steampowered.com/ugc/1135167000065733654/5DB3F6CCC80EF8FB9D399DA78937671954B62176/)
